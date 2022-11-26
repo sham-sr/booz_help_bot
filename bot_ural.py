@@ -32,6 +32,7 @@ butt_l = ['попка',
           'попка в масле']
 
 
+
 loop = asyncio.get_event_loop()
 bot = Bot(token="5607448461:AAFfZ847ENr3Jfmdjh9VXDi8fBNqWCXUeLE",
           parse_mode=types.ParseMode.HTML)
