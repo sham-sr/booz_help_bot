@@ -41,7 +41,7 @@ dp = Dispatcher(bot, loop, storage=storage)
 
 @dp.message_handler(Command('ural'), state="*")
 async def bot_ural(message: types.Message, state: FSMContext):
-    lines = open('ural_word.txt').read().splitlines()
+    lines = open('home/jovyan/work/booze_help_bot/ural_word.txt').read().splitlines()
     myline = random.choice(lines)
     await message.answer(myline)
 
@@ -86,7 +86,7 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    await message.answer(f"Не понимаю тебя:\n"
+    await message.answer(f"Не понимаю тебя иди нахуй:\n"
                          f"{message.text}\n"
                          f"Набери /help")
 
