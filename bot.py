@@ -86,7 +86,7 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    await message.answer(f"Не понимаю тебя иди нахуй:\n"
+    await message.answer(f"Не понимаю тебя иди нах:\n"
                          f"{message.text}\n"
                          f"Набери /help")
 
