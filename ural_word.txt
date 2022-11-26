@@ -1,0 +1,471 @@
+айда  - <tg-spoiler> пойдём, пошли, вперёд!</tg-spoiler>
+анбар  - <tg-spoiler> амбар</tg-spoiler>
+артачиться  - <tg-spoiler> упрямиться</tg-spoiler>
+Апайка  - <tg-spoiler> татарка</tg-spoiler>
+баской  - <tg-spoiler> красивый</tg-spoiler>
+Пример  - <tg-spoiler> "Ладна девка то растёт, баскушша (или баскуща), бравуща выдет!"</tg-spoiler>
+балаган  - <tg-spoiler> шалаш на покосе</tg-spoiler>
+баляка  - <tg-spoiler> говорун, балагур, сказочник</tg-spoiler>
+бадог  - <tg-spoiler> палка, посох</tg-spoiler>
+басалыка (басалыга, мосолыга)  - <tg-spoiler> кость</tg-spoiler>
+бАрзать  - <tg-spoiler> стучать, ломиться</tg-spoiler>
+базлать  - <tg-spoiler> громко кричать, петь, реветь</tg-spoiler>
+бальки - <tg-spoiler> берёзовые почки (бруньки)</tg-spoiler>
+Боут  - <tg-spoiler> засов у ворот</tg-spoiler>
+БотАть - <tg-spoiler> шуметь на воде, специальным приспособлением пугать рыбу, загонять в сеть</tg-spoiler>
+блазнить  - <tg-spoiler> казаться, мерещиться</tg-spoiler>
+бродить рыбу  - <tg-spoiler> лобить рыбу неводом</tg-spoiler>
+бряклоО  - <tg-spoiler> болтливый человек</tg-spoiler>
+бутун  - <tg-spoiler> лук батун</tg-spoiler>
+Бучило  - <tg-spoiler> омут, водоворот, окно в болоте, опасное место, где невозможно достичь дна</tg-spoiler>
+Бучить кадки  - <tg-spoiler> готовить бочки для засолки продуктов, залить горячую воду и опустить в неё раскалённые в печи камни: гранит или полевой шпат, а после накрыть бочку крышкой и куском войлока или меха.</tg-spoiler>
+быдто  - <tg-spoiler> будто</tg-spoiler>
+бестужой  - <tg-spoiler> бесстыжий, бессовестный</tg-spoiler>
+блямкать  - <tg-spoiler> невнятно разговаривать</tg-spoiler>
+буровить (бурохвостить)  - <tg-spoiler> тащить волоком, приводить в беспорядок</tg-spoiler>
+балаболка  - <tg-spoiler> ботун, болтунья или чтото подвешенное не очень крупное, типа кисточки внизу у ковра</tg-spoiler>
+бразгаться  - <tg-spoiler> играть в воде или с водой (любой другой жидкостью)</tg-spoiler>
+бУди  - <tg-spoiler> тогда, позже</tg-spoiler>
+борзеть  - <tg-spoiler> наглеть, хорошеть (шибко борзО выглядишь)</tg-spoiler>
+бурчать  - <tg-spoiler> урчать, тихо рычать или невнятно говорить низким голосом</tg-spoiler>
+баять  - <tg-spoiler> рассказывать</tg-spoiler>
+байбак  - <tg-spoiler> лентяй, любитель полежать толстяк</tg-spoiler>
+бузгать  - <tg-spoiler> создавать шум глухими громкими ударами</tg-spoiler>
+бодяжить  - <tg-spoiler> смешивать,</tg-spoiler>
+ботало  - <tg-spoiler> колокольчик или шаркунец на шее у животного (чаще у коров и лошадей)</tg-spoiler>
+будылья  - <tg-spoiler> стебли высоких травянистых растений (камыш, тростник, борщовик, полынь, крапива)</tg-spoiler>
+братИк  - <tg-spoiler> брат</tg-spoiler>
+брылы  - <tg-spoiler>губы</tg-spoiler>
+башка  - <tg-spoiler> голова</tg-spoiler>
+бастрык  - <tg-spoiler> жердь, оглобля, которой прижимают сено при перевозке на телеге, чтоб не сползало и не терялось по дороге.</tg-spoiler>
+буздырять  - <tg-spoiler> быстро, но красиво есть полной ложкой, придвинув к себе миску с едой</tg-spoiler>
+буткать  - <tg-spoiler> трамбовать, есть (набуткался  наелся)</tg-spoiler>
+бздовать  - <tg-spoiler> плескать (подкидывать) воду на каменку в бане</tg-spoiler>
+больно  - <tg-spoiler> очень (ты тут не больно выкобенивайся, здесь не у Проньки в ресторане, по хавальнику враз огребёшь)</tg-spoiler>
+варгать  - <tg-spoiler> возражать</tg-spoiler>
+варнак  - <tg-spoiler> хулиган</tg-spoiler>
+верещага - <tg-spoiler> яичница</tg-spoiler>
+вёдро  - <tg-spoiler> хорошая солнечная погода</tg-spoiler>
+вершна  - <tg-spoiler> спина лошади</tg-spoiler>
+вершник  - <tg-spoiler> всадник</tg-spoiler>
+вехотка  - <tg-spoiler> мочалка</tg-spoiler>
+взадь  - <tg-spoiler> наоборот</tg-spoiler>
+вица, вичка  - <tg-spoiler> прут</tg-spoiler>
+вожгаться (вошкаться)  - <tg-spoiler> упорно чтолибо делать</tg-spoiler>
+вострый  - <tg-spoiler> бойкий</tg-spoiler>
+всамделе  - <tg-spoiler> на самом деле</tg-spoiler>
+выглуздать  - <tg-spoiler> выдумать</tg-spoiler>
+вытрать  - <tg-spoiler> вытереть</tg-spoiler>
+выпендриваться  - <tg-spoiler> выделываться, выёживаться</tg-spoiler>
+выкобениваться  - <tg-spoiler> выкобениваться (выделываться с претензией на первенство или первоочерёдность)</tg-spoiler>
+вздрючить  - <tg-spoiler> наказать за проступок</tg-spoiler>
+вертеп  - <tg-spoiler> логово диких свиней, беспорядок</tg-spoiler>
+вечёршно  - <tg-spoiler> вчерашнее</tg-spoiler>
+вечерять  - <tg-spoiler> ужинать</tg-spoiler>
+вычурной  - <tg-spoiler> искусно сделанный, причудливый (вычурны балясины)</tg-spoiler>
+верхонки  - <tg-spoiler> рабочие рукавицы</tg-spoiler>
+втюрить  - <tg-spoiler> навязать, насильно отдать, подарить</tg-spoiler>
+вырядиться  - <tg-spoiler> приодеться, принарядиться, выделиться (чемто от других)</tg-spoiler>
+возюкать  - <tg-spoiler> пачкать</tg-spoiler>
+Выбугал  - <tg-spoiler> высох, проветрился</tg-spoiler>
+Вякать  - <tg-spoiler> гавкать, говорить, перебивая других, когда никто не давал слова.</tg-spoiler>
+голбец  - <tg-spoiler> подпол, дырка около печи, где хранили картофель    "Подико залезь в голбес(ц), да наклади картови!"</tg-spoiler>
+город  - <tg-spoiler> Екатеринбург (и все тут других нет); КаменскУральский  Каменск</tg-spoiler>
+гуторить  - <tg-spoiler> разговаривать</tg-spoiler>
+гырт  - <tg-spoiler> говорит.  Я, гырт, пошел в лес.</tg-spoiler>
+городить  - <tg-spoiler> делать забор, говорить вздор</tg-spoiler>
+голик  - <tg-spoiler> берёзовый веник без листьев</tg-spoiler>
+грабастать  - <tg-spoiler> хватать, загребать к себе</tg-spoiler>
+галёк  - <tg-spoiler> грузило на сети или неводе</tg-spoiler>
+гаманок  - <tg-spoiler> кошелёк</tg-spoiler>
+гусыня  - <tg-spoiler> трёхлитровая банка вина или браги</tg-spoiler>
+голимый  - <tg-spoiler> ярко выраженный, но иногда в смысле: плохой, невкусный</tg-spoiler>
+дескать  - <tg-spoiler> так сказать</tg-spoiler>
+дак  - <tg-spoiler> так</tg-spoiler>
+даве (давеча)  - <tg-spoiler> недавно (совсем недавно)</tg-spoiler>
+да чё да  - <tg-spoiler> и ещё много всякого разного, и так далее (посадили картошку, лук, морковку, да чё да...)пока суть да дело, короче, заняты были делом, на месте не стояли</tg-spoiler>
+делать с набегу  - <tg-spoiler> делать чтол урывками</tg-spoiler>
+дать тыкаля  - <tg-spoiler> сильно толкнуть человека</tg-spoiler>
+дальнешный  - <tg-spoiler> дальний</tg-spoiler>
+дивья   - <tg-spoiler> удивительно. "Дивья, девки, чо деется".</tg-spoiler>
+дородно  - <tg-spoiler> хорошо. "Дородно ты сделал колею".</tg-spoiler>
+домоводка  - <tg-spoiler> хорошая домашняя хозяйка</tg-spoiler>
+домовничать  - <tg-spoiler> управляться по хозяйству</tg-spoiler>
+допреж  - <tg-spoiler> прежде</tg-spoiler>
+Дивно  - <tg-spoiler> много</tg-spoiler>
+доспеть  - <tg-spoiler> успеть</tg-spoiler>
+Дыгать (сдыгать)  - <tg-spoiler> бояться, испугаться</tg-spoiler>
+дрючок  - <tg-spoiler> колышек, палка</tg-spoiler>
+дикошарый  - <tg-spoiler> человек не умеющий управлять своими эмоциями</tg-spoiler>
+дубас  - <tg-spoiler> юбка, подол платья</tg-spoiler>
+дичать  - <tg-spoiler> баловаться на грани с беспределом</tg-spoiler>
+дюжить (выдюжить)  - <tg-spoiler> терпеть (вытерпеть)</tg-spoiler>
+дюжий  - <tg-spoiler> терпеливый, здоровый, сильный, мощный</tg-spoiler>
+дулёбой (дулёбый)  - <tg-spoiler> с глазами разного цвета (чаще серый и зелёный, но бывают голубой и карий (обычно такое встречается у народов Поволжья)</tg-spoiler>
+единова  - <tg-spoiler> один раз</tg-spoiler>
+единова нет  - <tg-spoiler> нет ни одного</tg-spoiler>
+елеять  - <tg-spoiler> лелеять, беречь</tg-spoiler>
+Еранка  - <tg-spoiler> герань</tg-spoiler>
+Елань  - <tg-spoiler> поляна в лесу, отрытое место среди деревьев</tg-spoiler>
+егарма (она же росомага) кто - <tg-spoiler>то страшный и растрёпанный</tg-spoiler>
+ёрзать  - <tg-spoiler> беспокойно сидеть (чё ерзашь, как быдто у те шило в жопе)</tg-spoiler>
+ерепениться  - <tg-spoiler> сопротивляться, противиться, не соглашаться</tg-spoiler>
+ендова  - <tg-spoiler> вообщето посудина типа горшка, но часто употреблялось в смысле  задница</tg-spoiler>
+елозить  - <tg-spoiler> беспокойно сидеть на месте</tg-spoiler>
+жогчи, жгать  - <tg-spoiler> жечь</tg-spoiler>
+жаркой  - <tg-spoiler> жаркий</tg-spoiler>
+жаравь  - <tg-spoiler> журавль</tg-spoiler>
+жмурик  - <tg-spoiler> покойник</tg-spoiler>
+жох  - <tg-spoiler> игра; хитрец (пройдоха, прохиндей)</tg-spoiler>
+жулькать  - <tg-spoiler> мять, тискать, обжимать</tg-spoiler>
+запон  - <tg-spoiler> фартук</tg-spoiler>
+завсе  - <tg-spoiler> всегда</tg-spoiler>
+задохся  - <tg-spoiler> задохнулся, выдохся</tg-spoiler>
+зажгать  - <tg-spoiler> зажечь</tg-spoiler>
+заимка  - <tg-spoiler> изба, стоящая в лесу отдельно от селения</tg-spoiler>
+заколеть  - <tg-spoiler> сильно замерзнуть</tg-spoiler>
+закорки  - <tg-spoiler> верхняя часть спины</tg-spoiler>
+заскать  - <tg-spoiler> закатать (например рукава)</tg-spoiler>
+знамо  - <tg-spoiler> известно</tg-spoiler>
+закуржевел  - <tg-spoiler> покрылся инеем, (заиндевел)</tg-spoiler>
+затворА  - <tg-spoiler> подъёмные ставни на водоспуске плотины</tg-spoiler>
+замурзанный  - <tg-spoiler> замученный, грязный</tg-spoiler>
+зачуханный  - <tg-spoiler> запуганный, забитый</tg-spoiler>
+зело  - <tg-spoiler> очень</tg-spoiler>
+зады  - <tg-spoiler> задворки</tg-spoiler>
+здешный (здешной)  - <tg-spoiler> местный</tg-spoiler>
+Заплот  - <tg-spoiler> плотный забор без щелей</tg-spoiler>
+зырить  - <tg-spoiler> смотреть, наблюдать</tg-spoiler>
+загнетка  - <tg-spoiler> ямка в русской печке, куда перемещают недогоревшие в протопленной печи куски дров перед началом выпечки хлеба</tg-spoiler>
+ - <tg-spoiler></tg-spoiler>
+исть (ись)  - <tg-spoiler> есть</tg-spoiler>
+изробился  - <tg-spoiler> вымотался от непосильной работы</tg-spoiler>
+исторкать  - <tg-spoiler> изломать на мелкие части</tg-spoiler>
+изба  - <tg-spoiler> дом</tg-spoiler>
+изморочь  - <tg-spoiler> капризный</tg-spoiler>
+ихной(ихний)  - <tg-spoiler> их</tg-spoiler>
+ишшо  - <tg-spoiler> ещё</tg-spoiler>
+Имай  - <tg-spoiler> лови</tg-spoiler>
+каготко  - <tg-spoiler> младенец (возможно от гаготка  ягодка подражание детскому говору)</tg-spoiler>
+костерить  - <tg-spoiler> ругать</tg-spoiler>
+ково доходя  - <tg-spoiler> любого, каждого</tg-spoiler>
+кожуха  - <tg-spoiler> кожура</tg-spoiler>
+Карячки  - <tg-spoiler> четвереньки</tg-spoiler>
+ковО!  - <tg-spoiler> междометие, выражение несогласия</tg-spoiler>
+кержак  - <tg-spoiler> старовер или старообрядец (кстати, староверы придерживались дохристианской религии, старообрядцы  раскольники)</tg-spoiler>
+куржак  - <tg-spoiler> иней</tg-spoiler>
+клеч  - <tg-spoiler> картофельная ботва</tg-spoiler>
+калега  - <tg-spoiler> брюква</tg-spoiler>
+клюка  - <tg-spoiler> кочерга для печи</tg-spoiler>
+курейка  - <tg-spoiler> речка, ручей</tg-spoiler>
+ключ, ключик  - <tg-spoiler> родник, ручей</tg-spoiler>
+кромсать  - <tg-spoiler> рвать, резать, приводить в негодность</tg-spoiler>
+кралька  - <tg-spoiler> баранка, бублик</tg-spoiler>
+кутёнок, кутейка  - <tg-spoiler> щенок</tg-spoiler>
+киза  - <tg-spoiler> сушенка из носа</tg-spoiler>
+курочить  - <tg-spoiler> ломать, коверкать, корёжить</tg-spoiler>
+корчиться  - <tg-spoiler> принимать неудобные позы</tg-spoiler>
+кимарить (кемарить)  - <tg-spoiler> дремать</tg-spoiler>
+кулёк  - <tg-spoiler> пакет</tg-spoiler>
+керкать  - <tg-spoiler> кашлять</tg-spoiler>
+Кобылий ссец  - <tg-spoiler> конский щавель</tg-spoiler>
+кокора  - <tg-spoiler> не очень дружелюбный человек</tg-spoiler>
+кирчигать зубами  - <tg-spoiler> скрипеть, скрежетать зубами</tg-spoiler>
+Кулёма - <tg-spoiler> неумелый</tg-spoiler>
+Кадка, кадушка, кадочка  - <tg-spoiler> бочка</tg-spoiler>
+кожилиться  - <tg-spoiler> тужиться, напрягаться</tg-spoiler>
+кумекать  - <tg-spoiler>думать, соображать, придумывать</tg-spoiler>
+лопать  - <tg-spoiler> есть</tg-spoiler>
+ладить  - <tg-spoiler> делать, мастерить</tg-spoiler>
+лебезить  - <tg-spoiler> льстить</tg-spoiler>
+лешак тя знат  - <tg-spoiler> черт тебя знает</tg-spoiler>
+литовка  - <tg-spoiler> коса стойка</tg-spoiler>
+лыва  - <tg-spoiler> лужа</tg-spoiler>
+летось  - <tg-spoiler> прошлым летом</tg-spoiler>
+ладОм  - <tg-spoiler> хорошенько, как следует, так, как надо(нафиг деньги, нафиг дом, лишь бы трахнули ладом)</tg-spoiler>
+лишка  - <tg-spoiler> больше, чем нужно</tg-spoiler>
+лузгать  - <tg-spoiler> щёлкать семечки, орехи</tg-spoiler>
+латка  - <tg-spoiler> глиняная посудина для замеса теста</tg-spoiler>
+ли чё ли  - <tg-spoiler> концовка фразы для утверждения и добавления смысловой нагрузки сказанному (самый умный ли чё ли?)</tg-spoiler>
+маковка  - <tg-spoiler> головка мака, верхняя часть головы</tg-spoiler>
+мекать (кумекать)  - <tg-spoiler> думать, соображать</tg-spoiler>
+молоться  - <tg-spoiler> вертеться, баловаться (ты чё мелешша?)</tg-spoiler>
+морда  - <tg-spoiler> рыболовная снасть (вентерь)</tg-spoiler>
+мерёжа  - <tg-spoiler> сеть</tg-spoiler>
+мизгирь  - <tg-spoiler> паук</tg-spoiler>
+Малинка  - <tg-spoiler> мотыль, личинка комара</tg-spoiler>
+мотаня  - <tg-spoiler> подруга</tg-spoiler>
+мотня  - <tg-spoiler> середина невода, ширинка у штанов</tg-spoiler>
+морной, смешной  - <tg-spoiler> юморной</tg-spoiler>
+мыргать  - <tg-spoiler> громко мурлыкать</tg-spoiler>
+маломальный  - <tg-spoiler> мелкий</tg-spoiler>
+малохольный  - <tg-spoiler> придурковатый</tg-spoiler>
+морока  - <tg-spoiler> мучение</tg-spoiler>
+мельтешить  - <tg-spoiler> мелькать, суетиться, постоянно находиться в поле зрения</tg-spoiler>
+мешкать  - <tg-spoiler> ждать, ожидать, не спешить</tg-spoiler>
+махры  - <tg-spoiler> морщины, складки, неровности</tg-spoiler>
+Морговать  - <tg-spoiler> брезговать</tg-spoiler>
+Морговитый  - <tg-spoiler> брезгливый</tg-spoiler>
+Мантулить  - <tg-spoiler> делать неблагодарную (неприятную) работу</tg-spoiler>
+настрополиться  - <tg-spoiler> научиться чемулибо</tg-spoiler>
+натрать  - <tg-spoiler> натереть</tg-spoiler>
+наторкать  - <tg-spoiler> поколотить клибо, наколотить чтолибо, нагрузить с трамбовкой</tg-spoiler>
+начё  - <tg-spoiler> почему, зачем</tg-spoiler>
+нечё  - <tg-spoiler> нет необходимости</tg-spoiler>
+ничё  - <tg-spoiler> ничего</tg-spoiler>
+не охти мне  - <tg-spoiler> междометие, выражающее различные чувства в зависимости от ситуации</tg-spoiler>
+нак неуж!   - <tg-spoiler> выражение несогласия или недоверия)</tg-spoiler>
+назём  - <tg-spoiler> навоз</tg-spoiler>
+нахратить (изнахратить)  - <tg-spoiler> портить, насиловать</tg-spoiler>
+нали  - <tg-spoiler> даже</tg-spoiler>
+невидаль какА  - <tg-spoiler> ерунда какаято</tg-spoiler>
+нето  - <tg-spoiler> тогда (не вышел номер, нето инако попробуём)</tg-spoiler>
+ногавки  - <tg-spoiler> носки</tg-spoiler>
+ноне (нонче, нынче)  - <tg-spoiler> в нынешнем году)</tg-spoiler>
+навзничь  - <tg-spoiler> лицом кверху</tg-spoiler>
+ничком  - <tg-spoiler> лицом вниз</tg-spoiler>
+неминя  - <tg-spoiler> нужда, необходимость(кака неминя! с гаком семь вёрст и всё лесом!), неизбежность</tg-spoiler>
+надыбать  - <tg-spoiler> найти</tg-spoiler>
+нявгать  - <tg-spoiler> ныть, скулить, умолять, выпрашивать</tg-spoiler>
+няша  - <tg-spoiler> ил на дне пруда, жидкая грязь</tg-spoiler>
+Напрудить  - <tg-spoiler> обоссаться</tg-spoiler>
+Навымнула (навымнуло)  - <tg-spoiler> увеличилось вымя перед отёлом</tg-spoiler>
+нетуёвина  - <tg-spoiler> несуразица, бред больного воображения</tg-spoiler>
+обкарнать  - <tg-spoiler> плохо подстричь, обрезать, укоротить</tg-spoiler>
+Опростаться  - <tg-spoiler> освободиться, облегчиться</tg-spoiler>
+обрямкать  - <tg-spoiler> оборвать, превратьть в ремки</tg-spoiler>
+Обрыдло  - <tg-spoiler> надоело до отвращения</tg-spoiler>
+отоптыш  - <tg-spoiler> изношенная обувь</tg-spoiler>
+ошметка  - <tg-spoiler> худая, рваная обувь</tg-spoiler>
+охти мне  - <tg-spoiler> междометие, выражающее различные чувства</tg-spoiler>
+однако  - <tg-spoiler> одинаково</tg-spoiler>
+отсакать  - <tg-spoiler> отрезать, отделить, отхватить, отбежать</tg-spoiler>
+отдубасить  - <tg-spoiler> надавать по тому месту, которое прикрыто юбкой, подолом</tg-spoiler>
+опосляя  - <tg-spoiler> позже</tg-spoiler>
+опорфунился  - <tg-spoiler> опозорился</tg-spoiler>
+окаянный  - <tg-spoiler> проклятый</tg-spoiler>
+озям  - <tg-spoiler> верхняя одежда</tg-spoiler>
+откель (откуль)  - <tg-spoiler> откуда</tg-spoiler>
+отсель (отсюль)  - <tg-spoiler> отсюда</tg-spoiler>
+орава  - <tg-spoiler> ватага, неорганизованная толпа</tg-spoiler>
+охота  - <tg-spoiler> желание</tg-spoiler>
+окостыжиться  - <tg-spoiler> напрячься, ощетиниться, замёрзнуть до каменного состояния </tg-spoiler>
+окараться  - <tg-spoiler> ошибиться</tg-spoiler>
+ошурки  - <tg-spoiler> остатки после вытопленного сала</tg-spoiler>
+однёрка  - <tg-spoiler> единица, номер трамвая</tg-spoiler>
+одонки  - <tg-spoiler> осадок</tg-spoiler>
+Объягнилась  - <tg-spoiler> овца (коза) принесла приплод (в другой местности говорят про овец  окотилась)</tg-spoiler>
+Отчихвостить  - <tg-spoiler> отругать</tg-spoiler>
+Отчебучить  - <tg-spoiler> прославиться</tg-spoiler>
+Обыгался  - <tg-spoiler> пришёл в себя</tg-spoiler>
+пельмяне  - <tg-spoiler> пельмени</tg-spoiler>
+пимы  - <tg-spoiler> валенки</tg-spoiler>
+Прилично  - <tg-spoiler> много, немало</tg-spoiler>
+пошурудить (напр. угли)  - <tg-spoiler> поворошить</tg-spoiler>
+приуряхтаться  - <tg-spoiler> прибраться, навести порядок, привести себя в порядок</tg-spoiler>
+пряталки  - <tg-spoiler> игра в прятки</tg-spoiler>
+пужать  - <tg-spoiler> пугать</tg-spoiler>
+Прикукорки  - <tg-spoiler> вприсядку</tg-spoiler>
+пустобай  - <tg-spoiler> пустомеля, болтун</tg-spoiler>
+пришпандорить  - <tg-spoiler> приделать, прибить</tg-spoiler>
+пошто  - <tg-spoiler> зачем</tg-spoiler>
+пособник  - <tg-spoiler> помощник</tg-spoiler>
+прикорнуть  - <tg-spoiler> прилечь</tg-spoiler>
+паут  - <tg-spoiler> овод</tg-spoiler>
+поперва  - <tg-spoiler> сперва, сначала</tg-spoiler>
+Полоротый  - <tg-spoiler> невнимательный, часто отвлекающийся, раззява, медленно чтото делаешь или забыл чтото сделать</tg-spoiler>
+пескан  - <tg-spoiler> пескарь</tg-spoiler>
+пестерь  - <tg-spoiler> корзина</tg-spoiler>
+прорва  - <tg-spoiler> много; окно между кочками на болоте</tg-spoiler>
+пентюх  - <tg-spoiler> олух</tg-spoiler>
+плюшка  - <tg-spoiler> выпечка, ватрушка без начинки</tg-spoiler>
+перга  - <tg-spoiler> в смысле, перхоть, пыль, мусор</tg-spoiler>
+паршивый  - <tg-spoiler> плохой, отвратительный, неприятный</tg-spoiler>
+парша  - <tg-spoiler> болезнь, стригущий лишай</tg-spoiler>
+пупсик  - <tg-spoiler> игрушка, чтото или ктото мелкий</tg-spoiler>
+понява  - <tg-spoiler> вид женской одежды; скучный, капризный, невыносимый человек</tg-spoiler>
+потёма  - <tg-spoiler> пройдоха, прохиндей</tg-spoiler>
+Питима  - <tg-spoiler> раздолбай, олух царя небесного</tg-spoiler>
+поддёвка  - <tg-spoiler> вид одежды</tg-spoiler>
+поелику  - <tg-spoiler> поскольку</tg-spoiler>
+пакли  - <tg-spoiler> руки (неумелые, вездесущие, настырные)</tg-spoiler>
+пакость  - <tg-spoiler> гадость</tg-spoiler>
+поперёшный  - <tg-spoiler> упрямый, несговорчивый</tg-spoiler>
+пырнуть  - <tg-spoiler> ударить чемлибо острым</tg-spoiler>
+пластать  - <tg-spoiler> рвать, терзать</tg-spoiler>
+подкорыш  - <tg-spoiler> короед</tg-spoiler>
+по чё  - <tg-spoiler> за чем (по чё ты тудой попёрся?  за чем ты туда пошёл</tg-spoiler>
+пошто?  - <tg-spoiler> почему? (или междометие, выражение несогласия : весь день голодны шастали?  пошто! мы там поели, помидоров в поле настрадовали, а хлеб и соль из дому ташшыли!</tg-spoiler>
+поскотина  - <tg-spoiler> ограда вокруг поселения, чтоб домашние животные не заходили из деревни в поле</tg-spoiler>
+пелиться  - <tg-spoiler> лезть, залезать</tg-spoiler>
+пялиться  - <tg-spoiler> глазеть, таращиться</tg-spoiler>
+потакать  - <tg-spoiler> жалеть, беречь, баловать, уступать</tg-spoiler>
+посконь  - <tg-spoiler> грубая ткань</tg-spoiler>
+пупырь  - <tg-spoiler> прыщ</tg-spoiler>
+патлатый  - <tg-spoiler> лохматый</tg-spoiler>
+прошмандовка  - <tg-spoiler> шалава малолетняя</tg-spoiler>
+парнаки(е)  - <tg-spoiler> одинаковые</tg-spoiler>
+покедова  - <tg-spoiler> до свидания</tg-spoiler>
+пайва  - <tg-spoiler> заплечный кузовок</tg-spoiler>
+печатка (мыла)  - <tg-spoiler> кусок (мыла)</tg-spoiler>
+поли - <tg-spoiler>ко!  посмотри!</tg-spoiler>
+пурхаться  - <tg-spoiler> копаться, медлить (воробушки в пыли пурхаются  к дожжу)</tg-spoiler>
+понужать  - <tg-spoiler> погонять, заставлять, применяя какойлибо инструмент типа верёвки, палки, кнута, мокрой тряпки</tg-spoiler>
+пикуль  - <tg-spoiler> ручейник, личинка стрекозы</tg-spoiler>
+Простокиша  - <tg-spoiler> простокваша</tg-spoiler>
+Пресница  - <tg-spoiler> прялка</tg-spoiler>
+Подпилок  - <tg-spoiler> напильник</tg-spoiler>
+Поветь  - <tg-spoiler> сеновал</tg-spoiler>
+Пенять  - <tg-spoiler> высказывать, выговаривать,</tg-spoiler>
+Пеняй на себя  - <tg-spoiler> обижайся на себя</tg-spoiler>
+Падкой  - <tg-spoiler> жадный</tg-spoiler>
+пОмочь  - <tg-spoiler> Сбор друзей и родственников для оказания помощи по хозяйству одному из них (копка огорода, строительство дома, и т.п.)</tg-spoiler>
+робить  - <tg-spoiler> работать  "Щас сроблю" – сейчас сделаю.  “Кого робить будем?”    что делать будем? "Эко место наробил"  Как много сделал</tg-spoiler>
+робята  - <tg-spoiler> ребята</tg-spoiler>
+ремки  - <tg-spoiler> лохмотья</tg-spoiler>
+Розбызгать (разбызгать) - <tg-spoiler> разбросать, разровнять (высыпать кучками а потом разровнять)</tg-spoiler>
+рипица  - <tg-spoiler> репица, начало хвоста, задница</tg-spoiler>
+рукомойник  - <tg-spoiler> умывальник</tg-spoiler>
+робятёшки  - <tg-spoiler> ребятишки</tg-spoiler>
+Ровно  - <tg-spoiler> словно, как будто</tg-spoiler>
+росхлебенить  - <tg-spoiler> открыть настежь</tg-spoiler>
+росчекрыжить  - <tg-spoiler> разделать бревно на дрова</tg-spoiler>
+росшапериться  - <tg-spoiler> растопыриться, раскинуть крылья (пошло от фамилии Шапиро, врачагинеколога, в кабинете которого в смотровом кресле женщины раскидывали ноги в разные стороны для осмотра половых органов)</tg-spoiler>
+садинка  - <tg-spoiler> цветок (комнатный)</tg-spoiler>
+саранка  - <tg-spoiler> лесной цветок семейства лилейных</tg-spoiler>
+сакать  - <tg-spoiler> ловить рыбу сачком, бежать</tg-spoiler>
+сбрендил  - <tg-spoiler> сошел с ума</tg-spoiler>
+сенки  - <tg-spoiler> сени</tg-spoiler>
+синявка  - <tg-spoiler> сыроежка</tg-spoiler>
+Скорлушки  - <tg-spoiler> очистки картофеля и других овощей, скорлупа</tg-spoiler>
+сайдак  - <tg-spoiler> камыш, аир</tg-spoiler>
+сочить  - <tg-spoiler> тереть на терке</tg-spoiler>
+сродный (брат)  - <tg-spoiler> двоюродный</tg-spoiler>
+стащиха  - <tg-spoiler> пирушка вскладчину</tg-spoiler>
+Сумёт  - <tg-spoiler> сугроб</tg-spoiler>
+стибрить, слямзить  - <tg-spoiler> украсть</tg-spoiler>
+сухарница  - <tg-spoiler> похлебка из замоченных в квасе сухарей с солью, маслом или сметаной и  луком</tg-spoiler>
+супроть  - <tg-spoiler> напротив</tg-spoiler>
+Спужалси  - <tg-spoiler> испугался</tg-spoiler>
+свар  - <tg-spoiler> компот</tg-spoiler>
+сивер  - <tg-spoiler> север</tg-spoiler>
+Сдыгать  - <tg-spoiler> испугаться до отказа от выполнения запланированного или предложпннтго</tg-spoiler>
+студёный  - <tg-spoiler> холодный</tg-spoiler>
+сороковка  - <tg-spoiler> бутылка ёмкостью 0,25 литра</tg-spoiler>
+сера  - <tg-spoiler> смола хвойных деревьев</tg-spoiler>
+сайка  - <tg-spoiler> батон хлеба</tg-spoiler>
+стырить  - <tg-spoiler> украсть и спрятать</tg-spoiler>
+скособениться (перекособениться)  - <tg-spoiler> перекоситься, согнуться</tg-spoiler>
+Съебурился  - <tg-spoiler> съёжился</tg-spoiler>
+тожно  - <tg-spoiler> тогда  "Вернусь, тожно сделаю"</tg-spoiler>
+Толдычить  - <tg-spoiler> говорить, доказывать</tg-spoiler>
+торкать  - <tg-spoiler> стучать в двери ногами</tg-spoiler>
+творожники  - <tg-spoiler> вареники с творогом</tg-spoiler>
+таку беду  - <tg-spoiler> очень сильно. "Таку беду выступат"  очень сильно выступает.</tg-spoiler>
+трекнуться  - <tg-spoiler> перестать чтото делать.</tg-spoiler>
+трекаться   - <tg-spoiler>  впустую болтать</tg-spoiler>
+трохи  - <tg-spoiler> немного</tg-spoiler>
+Торнуть  - <tg-spoiler> ударить тяжёлым сверху</tg-spoiler>
+тюричок  - <tg-spoiler> катушка ниток</tg-spoiler>
+творило  - <tg-spoiler> люк, закрывающий вход в погреб</tg-spoiler>
+трать  - <tg-spoiler> тереть</tg-spoiler>
+тенёта  - <tg-spoiler> паутина</tg-spoiler>
+теперь  - <tg-spoiler> сейчас</tg-spoiler>
+трахмал  - <tg-spoiler> крахмал</tg-spoiler>
+тетеря  - <tg-spoiler> тетерев, раззява, глухой, как пень</tg-spoiler>
+типун  - <tg-spoiler> нарыв, чирей (чирий)</tg-spoiler>
+туесок (туес)  - <tg-spoiler> берестянная коробка, ведёрко, ёмкость</tg-spoiler>
+торкнуть  - <tg-spoiler> внезапно ударить</tg-spoiler>
+турнуть  - <tg-spoiler> прогнать с применением силы</tg-spoiler>
+тальма  - <tg-spoiler> длинная накидка без рукавов</tg-spoiler>
+текёт  - <tg-spoiler> течёт</tg-spoiler>
+тын (тынок)  - <tg-spoiler> забор из тонкого деревянного кругляка где штакетины разной высоты</tg-spoiler>
+тутока, тамока  - <tg-spoiler> здесь, там</tg-spoiler>
+ухамазгаться  - <tg-spoiler> устать от работы</tg-spoiler>
+ухайдакать  - <tg-spoiler> убить, сгубить, устать</tg-spoiler>
+улка  - <tg-spoiler> улица</tg-spoiler>
+ушник  - <tg-spoiler> сплетник</tg-spoiler>
+утрать  - <tg-spoiler> вытереть</tg-spoiler>
+утирка  - <tg-spoiler> полотенце</tg-spoiler>
+урождай  - <tg-spoiler> урожай</tg-spoiler>
+упичкаться  - <tg-spoiler> утомиться. "Упичкался старик  дрова рубил".</tg-spoiler>
+убор  - <tg-spoiler> праздничная одежда</tg-spoiler>
+уряхаться  - <tg-spoiler> привести себя в порядок</tg-spoiler>
+удуматься  - <tg-spoiler> вздумать</tg-spoiler>
+урыльник  - <tg-spoiler> умывальник</tg-spoiler>
+Уросить  - <tg-spoiler> капизничать, вредничать с воплями и подвыванием</tg-spoiler>
+фасониться  - <tg-spoiler> манерничать, красоваться, рисоваться перед кемто</tg-spoiler>
+финтифлюшки  - <tg-spoiler> завитки</tg-spoiler>
+фунфырик  - <tg-spoiler> флакон, пузырёк</tg-spoiler>
+хрещеный  - <tg-spoiler> крещеный</tg-spoiler>
+хиридать  - <tg-spoiler> болеть</tg-spoiler>
+хабарка или хибарка  - <tg-spoiler> небольшая избушка</tg-spoiler>
+халепа  - <tg-spoiler> раззява</tg-spoiler>
+халява  - <tg-spoiler> (она и в Африке халява)  пожива за чужой счёт</tg-spoiler>
+худой  - <tg-spoiler> плохой, дырявый</tg-spoiler>
+хвилить  - <tg-spoiler> доводить до слёз, издеваться морально</tg-spoiler>
+хлебать  - <tg-spoiler> есть жидкую пищу</tg-spoiler>
+хрешша  - <tg-spoiler> хворост</tg-spoiler>
+хезать  - <tg-spoiler> испражняться</tg-spoiler>
+хаять  - <tg-spoiler> нелестно отзываться</tg-spoiler>
+хохонькать  - <tg-spoiler> трясти и укачивать очень нежно. ухохонькать  усыпить, утрясти до бессознательного состояния</tg-spoiler>
+чаять  - <tg-spoiler> надеяться</tg-spoiler>
+черепан  - <tg-spoiler> горшечник</tg-spoiler>
+черемный  - <tg-spoiler> рыжий</tg-spoiler>
+череда  - <tg-spoiler> маленькие дети, (у деда с бабой череда была  двенадцать всегото, да выжили не все), трава с колючими семечками</tg-spoiler>
+чебак  - <tg-spoiler> плотва</tg-spoiler>
+чеботарь  - <tg-spoiler> сапожник</tg-spoiler>
+чокнуть  - <tg-spoiler> стукнуть. "Баран барана чакнул лбом так, что один из них упал до смерти".</tg-spoiler>
+чучА  - <tg-spoiler> ерунда</tg-spoiler>
+чучундра  - <tg-spoiler> девица нехорошего поведения</tg-spoiler>
+чиряк  - <tg-spoiler> нарыв</tg-spoiler>
+чуни  - <tg-spoiler> вид калош из автомобильной резины</tg-spoiler>
+чубарый  - <tg-spoiler> с пятном на лбу</tg-spoiler>
+чередить  - <tg-spoiler> безобразничать, хулиганить</tg-spoiler>
+чудить  - <tg-spoiler> творить чудеса, смешить, веселить, устраивать потеху дя других</tg-spoiler>
+чаять  - <tg-spoiler> желать, ждать</tg-spoiler>
+чешша  - <tg-spoiler> чаща</tg-spoiler>
+чёмор  - <tg-spoiler> существо (понятие) наподобие чёрта</tg-spoiler>
+Чувырла  - <tg-spoiler> одетый как попало, без вкуса</tg-spoiler>
+чекрыжить  - <tg-spoiler> измельчать</tg-spoiler>
+чекушка  - <tg-spoiler> бутылка 0,25 литра</tg-spoiler>
+чухаться  - <tg-spoiler> долго собираться</tg-spoiler>
+черепушка  - <tg-spoiler> посудина из которой кормят кошку</tg-spoiler>
+чирла  - <tg-spoiler> яичницаглазунья из нескольких яиц или просто разбитые яйца</tg-spoiler>
+чушка  - <tg-spoiler> подбородок</tg-spoiler>
+Численник  - <tg-spoiler> настенный отрывной календарь</tg-spoiler>
+чинарик  - <tg-spoiler> окурок (зачинарить  потушить сигарету, но окурок оставить, чтоб после какогото промежутка времени вновь закурить)</tg-spoiler>
+Шабала, шабалка  - <tg-spoiler> половник с дырками для выемки пельменей из бульона и очистки лунки при зимней рыбалке</tg-spoiler>
+шаять  - <tg-spoiler> плохо гореть, тлеть</tg-spoiler>
+шибко  - <tg-spoiler> очень</tg-spoiler>
+шоркать  - <tg-spoiler> тереть, скоблить</tg-spoiler>
+шпынять  - <tg-spoiler> гонять, пинать</tg-spoiler>
+шарашиться  - <tg-spoiler> 1. сопротивляться, 2. шляться неизвестно где (шляться=гулять)</tg-spoiler>
+ширинка  - <tg-spoiler> платок, застёжка на брюках</tg-spoiler>
+шоша да ероша  - <tg-spoiler> бедняки</tg-spoiler>
+шлындить  - <tg-spoiler> ходить без дела, шляться, шататься</tg-spoiler>
+шаньга  - <tg-spoiler> ватрушка</tg-spoiler>
+шаром  - <tg-spoiler> шалаш (картофельная ботва и огородные сорняки вздетые на козлы в огороде, чтоб домашним животным было где укрыться от ветра и дождя)</tg-spoiler>
+шебутной  - <tg-spoiler> шумный, неспокойный, искатель приключений на свою задницу</tg-spoiler>
+шубенки  - <tg-spoiler> меховые рукавицы</tg-spoiler>
+шарабошить  - <tg-spoiler> искать, шуршать</tg-spoiler>
+шлындать  - <tg-spoiler> прогуливаться в поисках чеголибо</tg-spoiler>
+шарить  - <tg-spoiler> искать наощупь, разбираться, понимать (и в телевизорах он шарит и в карбюраторах, только инжекторы для него тёмный лес)</tg-spoiler>
+шмякнуть  - <tg-spoiler> сбросить с себя тяжёлый, но мягкий груз</tg-spoiler>
+шмякнуться  - <tg-spoiler> упасть, удариться мягким местом</tg-spoiler>
+шваркнуть  - <tg-spoiler> сбросить с себя небрежно изза спины через голову</tg-spoiler>
+швыркать  - <tg-spoiler> шумно прихлёбывать, шумно втягивать воздух через нос вместе с соплями</tg-spoiler>
+Шмутки  - <tg-spoiler> вещи,</tg-spoiler>
+шоёха  - <tg-spoiler> рыба веретея (шиповка, щиповка, кусачка и ещё полтора десятка местных названий, потому, что эта рыбка встречается повсеместно от Кавказа, Памира и Алтая и до широты Архангельска, а по долготе из центральной Европы до Енисея)</tg-spoiler>
+шевяк  - <tg-spoiler> коровья лепёшка</tg-spoiler>
+шкандыбАть  - <tg-spoiler> идти, прихрамывая на обе ноги</tg-spoiler>
+шурудить  - <tg-spoiler> перемешивать (например: угли в печи)</tg-spoiler>
+ширнуть  - <tg-spoiler> воткнуть в мягкое нож или острый предмет и тут же удалить его из раны</tg-spoiler>
+шастать  - <tg-spoiler> бесцельно передвигаться по объекту, создавая вид занятости и напряжённой работы, мозолить глаза окружающим</tg-spoiler>
+шипига  - <tg-spoiler> бородавка на пальце, ладони, подошве ноги (на плотной коже, на рабочей поверхности кистей рук и подошвах ног)</tg-spoiler>
+щерба  - <tg-spoiler> уха двойная или тройная по особому рыбацкому рецепту</tg-spoiler>
+юзгаться  - <tg-spoiler> суетиться, ёрзать, беспокойно сидеть.</tg-spoiler>
+язви его в душу, язви тя в душу  - <tg-spoiler> бранное выражение</tg-spoiler>
+якорь те в жопу  - <tg-spoiler> бранное выражение</tg-spoiler>
+яга  - <tg-spoiler> волчья шуба</tg-spoiler>
+ярка  - <tg-spoiler> молодая овца сеголеток</tg-spoiler>
