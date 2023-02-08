@@ -11,7 +11,7 @@ from aiogram.types import InputFile
 from bot_openai import ai_answers
 
 organization = 'org-jCelzSWMGbVd9aqXngqbPirc'
-api_key = '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'
+api_key = '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'
 
 parser = YandexImage()
 
