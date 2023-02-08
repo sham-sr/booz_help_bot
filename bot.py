@@ -9,6 +9,7 @@ import random
 from ImageParser import YandexImage
 from aiogram.types import InputFile
 from bot_openai import ai_answers
+import os
 
 parser = YandexImage()
 
@@ -87,7 +88,9 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    text = ai_answers(prompt=message.text)
+    text = ai_answers(os.environ("ORGANIZATION"),
+                      os.environ("OPENAI_API_KEY"),
+                    prompt=message.text)
     await message.answer(text.replace('<','').replace('/>',''))
     
 
