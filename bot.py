@@ -8,6 +8,10 @@ from aiogram.dispatcher import FSMContext
 import random
 from ImageParser import YandexImage
 from aiogram.types import InputFile
+from bot_openai import ai_answers
+
+organization = 'org-jCelzSWMGbVd9aqXngqbPirc'
+api_key = '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'
 
 parser = YandexImage()
 
@@ -86,9 +90,16 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    await message.answer(f"Не понимаю тебя иди нах:\n"
+    try:
+    text= ai_answers(organization,
+                   api_key,
+                   prompt=message.text)        
+    except:
+        await message.answer(f"Не понимаю тебя иди нах:\n"
                          f"{message.text}\n"
                          f"Набери /help")
+    await message.answer(text.replace('<','').replace('/>',''))
+    
 
 
 async def on_shutdown(dp):
