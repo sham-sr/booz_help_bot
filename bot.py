@@ -87,9 +87,7 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    text = ai_answers(organization,
-                    api_key,
-                    prompt=message.text)
+    text = ai_answers(prompt=message.text)
     await message.answer(text.replace('<','').replace('/>',''))
     
 
