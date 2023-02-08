@@ -10,9 +10,6 @@ from ImageParser import YandexImage
 from aiogram.types import InputFile
 from bot_openai import ai_answers
 
-organization = 'org-jCelzSWMGbVd9aqXngqbPirc'
-api_key = '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'
-
 parser = YandexImage()
 
 boobs_l = ['красивые сиськи',
