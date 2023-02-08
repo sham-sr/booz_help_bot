@@ -90,14 +90,9 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    try:
-        text = ai_answers(organization,
+    text = ai_answers(organization,
                     api_key,
-                    prompt=message.text)        
-    except:
-        await message.answer(f"Не понимаю тебя иди нах:\n"
-                         f"{message.text}\n"
-                         f"Набери /help")
+                    prompt=message.text)
     await message.answer(text.replace('<','').replace('/>',''))
     
 
