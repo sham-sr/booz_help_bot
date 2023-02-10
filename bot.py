@@ -102,12 +102,14 @@ async def bot_echo(message: types.Message):
                             prompt=text_in) 
         except:
              await message.answer('Что то пошло не так c мозгом ИИ')             
-        if message.text.startswith('*eng'):
+        if not message.text.startswith('*eng'):
             ai_text = ya_translate(ai_text).replace('*eng', '',1)
-        if ai_text is not None: 
-            await message.answer(markdownify(ai_text))
+            if ai_text is None:
+                await message.answer('Что то пошло не так c преводом на RU!')
+            else:
+                await message.answer(markdownify(ai_text)) 
         else:
-            await message.answer('Что то пошло не так c преводом на RU!')
+            await message.answer(markdownify(ai_text))            
     else:
         await message.answer('Что то пошло не так c преводом на EN!')
     
