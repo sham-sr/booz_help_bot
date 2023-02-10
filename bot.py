@@ -89,7 +89,7 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    text_in_en = ya_translate(message.text)
+    text_in_en = ya_translate(message.text, target_language='en')
     if text_in_en is not None:
         try:
             ai_text_en = ai_answers(os.getenv("ORGANIZATION"),
