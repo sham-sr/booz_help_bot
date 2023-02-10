@@ -9,6 +9,7 @@ import random
 from ImageParser import YandexImage
 from aiogram.types import InputFile
 from bot_openai import ai_answers
+from ya_api import ya_translate
 import os
 
 parser = YandexImage()
@@ -88,10 +89,18 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    text = ai_answers(os.getenv("ORGANIZATION"),
-                      os.getenv("OPENAI_API_KEY"),
-                    prompt=message.text)
-    await message.answer(text.replace('<','').replace('/>',''))
+    text_in_en = ya_translate(message.text)
+    if text_in_en is not None:
+        ai_text_en = ai_answers(os.getenv("ORGANIZATION"),
+                          os.getenv("OPENAI_API_KEY"),
+                          prompt=text_in_en) 
+        ai_text_ru = ya_translate(ai_text_en)
+        if ai_text_ru is not None:
+            await message.answer(ai_text_ru.replace('<','').replace('/>',''))
+        else:
+            await message.answer('Что то пошло не так c преводом на RU!')
+    else:
+        await message.answer('Что то пошло не так c преводом на EN!')
     
 
 
