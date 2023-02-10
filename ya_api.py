@@ -6,7 +6,7 @@ def ya_translate(text,target_language='ru'):
     try:
         headers = {
                     "Content-Type": "application/json",
-                    "Authorization": f"Api-Key {os.getenv("YA_API_KEY")}"
+                    "Authorization": f'Api-Key {os.getenv("YA_API_KEY")}'
                   }
         body = {
         "targetLanguageCode": target_language,
@@ -19,4 +19,4 @@ def ya_translate(text,target_language='ru'):
                                 )
         return json.loads(str(response.text))['translations'][0]['text']
     except:
-        return: None
+        return None
