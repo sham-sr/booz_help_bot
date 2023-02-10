@@ -1,9 +1,10 @@
 import requests
 import os
+import json
 
 # переводчик
 def ya_translate(text,target_language='ru'):
-  #  try:
+  try:
     headers = {
                 "Content-Type": "application/json",
                 "Authorization": f'Api-Key {os.getenv("YA_API_KEY")}'
@@ -18,5 +19,5 @@ def ya_translate(text,target_language='ru'):
                               headers = headers
                             )
     return json.loads(str(response.text))['translations'][0]['text']
-  #  except:
-  #      return None
+  except:
+    return None
