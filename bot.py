@@ -10,6 +10,7 @@ from ImageParser import YandexImage
 from aiogram.types import InputFile
 from bot_openai import ai_answers
 from ya_api import ya_translate
+from markdownify import markdownify
 import os
 
 parser = YandexImage()
@@ -89,10 +90,11 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
+    print(f'user:{message.from_user.full_name}, text:{message.text}')
     if message.text.startswith('*loc'):
-        text_in = ya_translate(message.text, target_language='en')
+        text_in = message.text.replace('*loc', '',1) 
     else:
-        text_in = message.text  
+        text_in = ya_translate(message.text, target_language='en')         
     if text_in is not None:
         try:
             ai_text = ai_answers(os.getenv("ORGANIZATION"),
@@ -101,9 +103,9 @@ async def bot_echo(message: types.Message):
         except:
              await message.answer('Что то пошло не так c мозгом ИИ')             
         if message.text.startswith('*eng'):
-            ai_text = ya_translate(ai_text_en)
+            ai_text = ya_translate(ai_text).replace('*eng', '',1)
         if ai_text is not None: 
-            await message.answer(ai_text.replace('<','').replace('/>',''))
+            await message.answer(markdownify(ai_text))
         else:
             await message.answer('Что то пошло не так c преводом на RU!')
     else:
