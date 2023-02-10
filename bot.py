@@ -56,8 +56,8 @@ async def bot_help(message: types.Message):
             "/start - начать строчить",
             "/ural - учи уральский говор чёмор",
             "/boobs - сиськи",
-            "/butt - попки"
-            )
+            "/butt - попки",            
+            "если набирать без команд отвечать будет ИИ \n начни набор с *eng результат вернется на английском")
     await message.answer("\n".join(text))
 
 
