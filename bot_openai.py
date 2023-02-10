@@ -24,4 +24,4 @@ def ai_answers(organization,
                                         frequency_penalty=0,
                                         presence_penalty=0
                                       )
-    return json.loads(str(response))['choices'][0]['text'].replace('\n','')
+    return json.loads(str(response))['choices'][0]['text']#.replace('\n','')

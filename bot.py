@@ -89,17 +89,21 @@ async def bot_butt(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=None)
 async def bot_echo(message: types.Message):
-    text_in_en = ya_translate(message.text, target_language='en')
-    if text_in_en is not None:
+    if message.text.startswith('*loc'):
+        text_in = ya_translate(message.text, target_language='en')
+    else:
+        text_in = message.text  
+    if text_in is not None:
         try:
-            ai_text_en = ai_answers(os.getenv("ORGANIZATION"),
+            ai_text = ai_answers(os.getenv("ORGANIZATION"),
                             os.getenv("OPENAI_API_KEY"),
-                            prompt=text_in_en) 
+                            prompt=text_in) 
         except:
-             await message.answer('Что то пошло не так c мозгом ИИ')
-        ai_text_ru = ya_translate(ai_text_en)
-        if ai_text_ru is not None:
-            await message.answer(ai_text_ru.replace('<','').replace('/>',''))
+             await message.answer('Что то пошло не так c мозгом ИИ')             
+        if message.text.startswith('*eng'):
+            ai_text = ya_translate(ai_text_en)
+        if ai_text is not None: 
+            await message.answer(ai_text.replace('<','').replace('/>',''))
         else:
             await message.answer('Что то пошло не так c преводом на RU!')
     else:
