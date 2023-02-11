@@ -11,6 +11,7 @@ from aiogram.types import InputFile
 from bot_openai import ai_answers
 from ya_api import ya_translate
 from markdownify import markdownify
+from html_strip import strip_tags
 import os
 
 parser = YandexImage()
@@ -103,13 +104,13 @@ async def bot_echo(message: types.Message):
         except:
              await message.answer('Что то пошло не так c мозгом ИИ')             
         if not message.text.startswith('*eng'):
-            ai_text = ya_translate(markdownify(ai_text)).replace('*eng', '',1)
+            ai_text = ya_translate(strip_tags(ai_text)).replace('*eng', '',1)
             if ai_text is None:
                 await message.answer('Что то пошло не так c преводом на RU!')
             else:
-                await message.answer(markdownify(ai_text)) 
+                await message.answer(strip_tags(ai_text)) 
         else:
-            await message.answer(markdownify(ai_text))            
+            await message.answer(strip_tags(ai_text))            
     else:
         await message.answer('Что то пошло не так c преводом на EN!')
     
