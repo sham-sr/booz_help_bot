@@ -107,9 +107,9 @@ async def bot_echo(message: types.Message):
             if ai_text is None:
                 await message.answer('Что то пошло не так c преводом на RU!')
             else:
-                await message.answer(markdownify(ai_text),parse_mode=types.ParseMode.MARKDOWN_V2) 
+                await message.answer(markdownify(ai_text).replace('</','')) 
         else:
-            await message.answer(markdownify(ai_text),parse_mode=types.ParseMode.MARKDOWN_V2)            
+            await message.answer(markdownify(ai_text).replace('</',''))            
     else:
         await message.answer('Что то пошло не так c преводом на EN!')
     
