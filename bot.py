@@ -140,7 +140,7 @@ async def voice_message_handler(message: types.Message):
     await message.reply("Аудио получено")
 
     # Convert the audio file to text using Yandex Speech Kit
-    with open(file_path, "rb") as file:
+    with open(file_on_disk, "rb") as file:
         audio_data = file.read()
 
     url = "https://stt.api.cloud.yandex.net/speech/v1/stt:recognize"
