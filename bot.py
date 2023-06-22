@@ -115,7 +115,7 @@ async def bot_echo(message: types.Message):
     else:
         await message.answer('Что то пошло не так c преводом на EN!')
     
-@dp.message_handler(content_types=types.ContentTypes.AUDIO)
+@dp.message_handler(content_types=types.ContentTypes.VOICE)
 async def handle_audio_message(message: types.Message):
     # Download the audio file
     voice = await message.voice.download()
