@@ -161,7 +161,7 @@ async def voice_message_handler(message: types.Message):
         else:
             await message.reply("Sorry, I couldn't recognize the speech.")
     else:
-        await message.reply("Oops! Something went wrong.")
+        await message.reply(f'Oops! Something went wrong.{response.text}')
 
     os.remove(file_on_disk)  # Удаление временного файла
 
