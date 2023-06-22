@@ -12,6 +12,7 @@ from bot_openai import ai_answers
 from ya_api import ya_translate
 from markdownify import markdownify
 from html_strip import strip_tags
+import requests
 import os
 
 parser = YandexImage()
@@ -114,7 +115,38 @@ async def bot_echo(message: types.Message):
     else:
         await message.answer('Что то пошло не так c преводом на EN!')
     
+@dp.message_handler(content_types=types.ContentTypes.AUDIO)
+async def handle_audio_message(message: types.Message):
+    # Download the audio file
+    voice = await message.voice.download()
 
+    # Convert the audio file to text using Yandex Speech Kit
+    with open(voice, "rb") as file:
+        audio_data = file.read()
+
+    url = "https://stt.api.cloud.yandex.net/speech/v1/stt:recognize"
+    headers = {
+        "Authorization": "Api-Key YOUR_YANDEX_API_KEY",
+        "Content-Type": "audio/x-pcm;bit=16;rate=16000"
+    }
+
+    response = requests.post(url, headers=headers, data=audio_data)
+
+    if response.ok:
+        # Extract the text from the response
+        result = response.json().get("result")
+        if result:
+            # Process the text and generate a response
+            reply = generate_response(result)
+            await message.reply(reply)
+        else:
+            await message.reply("Sorry, I couldn't recognize the speech.")
+    else:
+        await message.reply("Oops! Something went wrong.")
+
+    # Delete the temporary audio file
+    os.remove(voice)
+    await message.reply('Received an audio message!')
 
 async def on_shutdown(dp):
     await bot.delete_webhook()
