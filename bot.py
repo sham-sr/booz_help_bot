@@ -118,10 +118,14 @@ async def bot_echo(message: types.Message):
 @dp.message_handler(content_types=types.ContentTypes.VOICE)
 async def handle_audio_message(message: types.Message):
     # Download the audio file
-    voice = await message.voice.download()
+    voice = message.voice  # Get the Voice object
+    file_id = voice.file_id  # Get the file ID of the voice message
+    file_info = await bot.get_file(file_id)  # Get the file information
+    file_path = file_info.file_path  # Get the file path
+    file = await bot.download_file(file_path) 
 
     # Convert the audio file to text using Yandex Speech Kit
-    with open(voice, "rb") as file:
+    with open(file_path, "rb") as file:
         audio_data = file.read()
 
     url = "https://stt.api.cloud.yandex.net/speech/v1/stt:recognize"
