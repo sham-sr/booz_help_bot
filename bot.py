@@ -90,7 +90,7 @@ async def bot_butt(message: types.Message, state: FSMContext):
         await message.answer_photo(InputFile.from_url(random.choice(butt)))
 
 
-@dp.message_handler(state=None, content_types=types.text)
+@dp.message_handler(state=None, content_types=types.ContentTypes.TEXT)
 async def bot_echo(message: types.Message):
     print(f'user:{message.from_user.full_name}, text:{message.text}')
     if message.text.startswith('*loc'):
