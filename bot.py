@@ -13,6 +13,7 @@ from ya_api import ya_translate
 from markdownify import markdownify
 from html_strip import strip_tags
 import requests
+from pathlib import Path
 import os
 
 parser = YandexImage()
