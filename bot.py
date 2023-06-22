@@ -146,7 +146,7 @@ async def handle_audio_message(message: types.Message):
 
     # Delete the temporary audio file
     os.remove(voice)
-    await message.reply('Received an audio message!')
+    await message.reply('Received an audio!')
 
 async def on_shutdown(dp):
     await bot.delete_webhook()
