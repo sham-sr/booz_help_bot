@@ -155,9 +155,7 @@ async def voice_message_handler(message: types.Message):
         # Extract the text from the response
         result = response.json().get("result")
         if result:
-            # Process the text and generate a response
-            reply = generate_response(result)
-            await message.reply(reply)
+            await message.reply(result)
         else:
             await message.reply("Sorry, I couldn't recognize the speech.")
     else:
