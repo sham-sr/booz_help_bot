@@ -144,7 +144,7 @@ async def voice_message_handler(message: types.Message):
 
     url = "https://stt.api.cloud.yandex.net/speech/v1/stt:recognize"
     headers = {
-        "Authorization": f"Api-Key {os.getenv("YA_API_KEY")}",
+        "Authorization": f'Api-Key {os.getenv("YA_API_KEY")}',
         "Content-Type": "audio/x-pcm;bit=16;rate=16000"
     }
 
