@@ -115,14 +115,28 @@ async def bot_echo(message: types.Message):
     else:
         await message.answer('Что то пошло не так c преводом на EN!')
     
-@dp.message_handler(content_types=types.ContentTypes.VOICE)
-async def handle_audio_message(message: types.Message):
-    # Download the audio file
-    voice = message.voice  # Get the Voice object
-    file_id = voice.file_id  # Get the file ID of the voice message
-    file_info = await bot.get_file(file_id)  # Get the file information
-    file_path = file_info.file_path  # Get the file path
-    file = await bot.download_file(file_path) 
+@dp.message_handler(content_types=[
+    types.ContentType.VOICE,
+    types.ContentType.AUDIO
+    ]
+)
+async def voice_message_handler(message: types.Message):
+    """
+    Обработчик на получение голосового и аудио сообщения.
+    """
+    if message.content_type == types.ContentType.VOICE:
+        file_id = message.voice.file_id
+    elif message.content_type == types.ContentType.AUDIO:
+        file_id = message.audio.file_id
+    else:
+        await message.reply("Формат документа не поддерживается")
+        return
+
+    file = await bot.get_file(file_id)
+    file_path = file.file_path
+    file_on_disk = Path("", f"{file_id}.tmp")
+    await bot.download_file(file_path, destination=file_on_disk)
+    await message.reply("Аудио получено")
 
     # Convert the audio file to text using Yandex Speech Kit
     with open(file_path, "rb") as file:
@@ -130,7 +144,7 @@ async def handle_audio_message(message: types.Message):
 
     url = "https://stt.api.cloud.yandex.net/speech/v1/stt:recognize"
     headers = {
-        "Authorization": "Api-Key YOUR_YANDEX_API_KEY",
+        "Authorization": f"Api-Key {os.getenv("YA_API_KEY")}",
         "Content-Type": "audio/x-pcm;bit=16;rate=16000"
     }
 
@@ -148,9 +162,8 @@ async def handle_audio_message(message: types.Message):
     else:
         await message.reply("Oops! Something went wrong.")
 
-    # Delete the temporary audio file
-    os.remove(voice)
-    await message.reply('Received an audio!')
+    os.remove(file_on_disk)  # Удаление временного файла
+
 
 async def on_shutdown(dp):
     await bot.delete_webhook()
